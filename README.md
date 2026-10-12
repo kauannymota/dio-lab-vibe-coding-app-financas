@@ -134,3 +134,35 @@ Depois, o usuário retorna ao Chat.
 Boas-vindas → Chat ↔ Metas
                ↕
              Resumo
+
+7. Entregável Esperado da IA
+Com base neste PRD, a IA deve:
+- sugerir um plano para o MVP;
+- definir o fluxo das telas;
+- descrever o comportamento do assistente financeiro;
+- propor a lógica de classificação das transações;
+- identificar possíveis pontos de fricção;
+- sugerir uma validação inicial simples.
+A IA não deve escrever código nem aumentar o escopo definido para o MVP.
+📸 Interações com IA
+Durante o desenvolvimento do conceito, utilizei o Google Antigravity para organizar e refinar o MVP e o fluxo do FinanZen AI.
+1. Definição do MVP
+Nesta interação, a IA ajudou a organizar as principais funcionalidades do MVP e separar funcionalidades futuras.
+
+2. Refinamento da solução
+Após a primeira resposta, foram realizados ajustes para manter o projeto dentro do escopo proposto e melhorar a definição do assistente financeiro.
+
+3. Fluxo conceitual das telas
+A IA também foi utilizada para estruturar o caminho do usuário entre as telas do MVP.
+
+💭 Reflexão sobre o Processo
+O que funcionou bem?
+Dar contexto e definir claramente o que a IA deveria fazer tornou as respostas mais organizadas e úteis.
+Também funcionou bem dividir o projeto em partes menores, começando pelo MVP, depois refinando o PRD e finalmente criando o fluxo das telas.
+O que não funcionou como esperado?
+Em algumas respostas, a IA sugeriu funcionalidades ou detalhes que estavam além do escopo inicial do MVP.
+Foi necessário enviar novas instruções para limitar o projeto e separar funcionalidades principais de ideias para versões futuras.
+O que aprendi sobre conversar com IAs?
+Aprendi que a qualidade do resultado depende bastante da clareza do prompt.
+Também percebi que não é necessário aceitar a primeira resposta da IA. É possível revisar, pedir ajustes e evoluir a solução em várias interações.
+O processo mostrou na prática como o Vibe Coding pode ser usado para transformar uma ideia inicial em um conceito de produto mais estruturado por meio da colaboração com inteligência artificial.
