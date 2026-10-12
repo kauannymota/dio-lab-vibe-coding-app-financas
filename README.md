@@ -147,21 +147,21 @@ Durante o desenvolvimento do conceito, utilizei o **Google Antigravity** para or
 
 Nesta interação, a IA ajudou a organizar as principais funcionalidades do MVP e separar funcionalidades futuras.
 
-![Definição do MVP](./images/01-mvp.png)
+![Definição do MVP](./01-mvp.png)
 
 ## 2. Refinamento da solução
 
 Após a primeira resposta, foram realizados ajustes para manter o projeto dentro do escopo proposto e melhorar a definição do assistente financeiro.
 
-![Refinamento da solução](./images/02-refinamento.png)
+![Refinamento da solução](./02-refinamento.png)
 
 ## 3. Fluxo conceitual das telas
 
 A IA também foi utilizada para estruturar o caminho do usuário entre as telas do MVP.
 
-![Fluxo de telas - Parte 1](./images/03-fluxo-parte1.png)
+![Fluxo de telas - Parte 1](./03-fluxo-parte1.png)
 
-![Fluxo de telas - Parte 2](./images/04-fluxo-parte2.png)
+![Fluxo de telas - Parte 2](./04-fluxo-parte2.png)
 
 ---
 
